@@ -1,5 +1,6 @@
 # Demo
 
+This are trainings about Git and GitHub
 
 Basic Git and Github
 https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/ (What Exactly Is GitHub Anyway?)
